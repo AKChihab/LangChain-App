@@ -9,3 +9,5 @@ __pycache__/
 *.sublime-workspace
 *.log
 temp/
+replacements.txt
+.gitattributes

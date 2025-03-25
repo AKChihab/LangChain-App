@@ -10,3 +10,5 @@ tiktoken
 faiss-cpu
 langchain-community==0.3.19
 huggingface_hub
+nbstripout
+pre-commit
